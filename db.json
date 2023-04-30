@@ -1,0 +1,43 @@
+{
+  "productos": [
+    {
+      "nombre": [
+        "Jugo de Mango"
+      ],
+      "precio": [
+        "500"
+      ],
+      "id": 4
+    },
+    {
+      "nombre": "vodka",
+      "precio": 400,
+      "id": 5
+    },
+    {
+      "nombre": "Caramelo",
+      "precio": 800,
+      "id": 6
+    },
+    {
+      "nombre": "vodka",
+      "precio": 400,
+      "id": 7
+    },
+    {
+      "nombre": "Jugo de mango",
+      "precio": 50,
+      "id": 8
+    },
+    {
+      "nombre": "Jugo de guayaba",
+      "precio": 50,
+      "id": 9
+    },
+    {
+      "nombre": "Manzanas",
+      "precio": 111,
+      "id": 14
+    }
+  ]
+}
